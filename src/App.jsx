@@ -5,10 +5,8 @@ function App() {
 
   return (
     <>
-      <h1>Jacob Psenicka</h1>
-      
-      <img src="/images/soft_reset.jpeg" alt="landing page image" />
-     
+      <section id="landing"><button id="enterHere" >Enter Here</button></section>
+         
     </>
   )
 }
