@@ -6,7 +6,7 @@
 }
 
 section {
-  background-image: url('../public/images/soft_reset.jpeg');
+  background-image: url('/images/soft_reset.jpeg');
   background-repeat: no-repeat;
   padding: 100%;
   height: 100%;
