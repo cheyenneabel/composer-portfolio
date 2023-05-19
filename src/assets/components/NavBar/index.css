@@ -1,0 +1,39 @@
+.nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+  }
+  
+  .navbar__logo {
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .navbar__links {
+    display: flex;
+  }
+  
+  .navbar__links-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .navbar__links-item {
+    margin-right: 20px;
+  }
+  
+  .navbar__links-link {
+    text-decoration: none;
+    color: #000;
+  }
+  

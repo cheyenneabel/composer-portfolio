@@ -48,6 +48,10 @@ button:focus-visible {
   outline: 4px auto #4394c7;
 }
 
+:any-link {
+  text-decoration: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
@@ -57,3 +61,4 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
